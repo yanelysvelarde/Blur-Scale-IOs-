@@ -13,3 +13,7 @@ The following **required** functionality is complete:
 ## Notes
 Simple project to practice SwiftUI
 
+## Image
+<img width="203" alt="example" src="https://github.com/yanelysvelarde/Blur-Scale-IOs-/assets/95549729/1c7e631b-377a-41ce-ad41-817a418252ac">
+
+
